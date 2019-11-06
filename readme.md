@@ -33,3 +33,8 @@ Ext.CLIJ_pluginTemplate(Image source, Image destination, Number scalar);
 ```
 
 In case of any issues, just leave a github issue or drop a mail to rhaase@mpi-cbg.de
+
+[Back to CLIJ documentation](https://clij.github.io/)
+
+[Imprint](https://clij.github.io/imprint)
+
